@@ -29,10 +29,10 @@ Installige vajalikud mooduluid.
 ### `npm start`
 
 Käivitage rakendus. Vaikimisi käivitub aadressil http://localhost:3000
-NB! Rakenuse funksionaalseks tööks peab töötama ülal toodus proxy server.
+
+NB! Rakenuse funksionaalseks tööks peab töötama ülal toodud proxy server, et vajalikud andmed APIst kätte saada.
 
 ## Rakendusest
 
-Rakendus on loodud Node käitussüsteemis kasutades React.js raamistikku.
-Kogu rakenduse loomiseks ja seadistamiseks kulus orinteeruvalt 12h.
-Ei olnud kindel, kas soovite näha varasemate oksjonite salvestatud andmeid rakenduses, seega lisasin lehe, kus on näha kõik andmed.
+Rakendus on loodud Node käitussüsteemis kasutades React.js raamistikku. CORS Policy probleemi lahendamiseks lõin oma proxy serveri.
+Kogu rakenduse loomiseks ja seadistamiseks kulus orinteeruvalt 13h.
