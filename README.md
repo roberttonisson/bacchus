@@ -15,6 +15,10 @@ Liikuge kausta ../bacchus/proxy
 
 Installige vajalikud moodulid serveri käivitamiseks.
 
+### `node server.js`
+
+Käivitage proxy server.
+
 ## Rakenduse käivitamine
 Liikuge kasuta ../bacchus/bacchus-app
 
