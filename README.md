@@ -20,7 +20,8 @@ Installige vajalikud moodulid serveri käivitamiseks.
 Käivitage proxy server.
 
 ## Rakenduse käivitamine
-Liikuge kasuta ../bacchus/bacchus-app
+
+Liikuge kausta ../bacchus/bacchus-app
 
 ### `npm install`
 
